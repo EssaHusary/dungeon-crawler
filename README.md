@@ -12,3 +12,6 @@ They may also request to see the map by simply typing "map":
 
 If they engage in a battle with an enemy, then they activate the combat loop. It would look like this:
 ![image](https://github.com/user-attachments/assets/821b3ace-c6c7-4536-ab5b-9e6a40b77a7c)
+
+
+And again, to run it, simply run the program in the GameDriver class as that is where main() is.
